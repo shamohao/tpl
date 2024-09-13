@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,figma.com
 # Developer
 DOMAIN-SUFFIX,ai.meta.com
 DOMAIN-SUFFIX,awsapps.com
